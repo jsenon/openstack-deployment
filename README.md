@@ -9,4 +9,4 @@ Edit hosts file with your host.
 
 Roles
 ------------
-Roles are located on playbook/roles/
+Roles are located on *playbook/roles/*
